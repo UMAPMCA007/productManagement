@@ -1,0 +1,11 @@
+#submit{
+    color: green;
+    background-color:green;
+}
+
+@media print  {
+  #hide {
+           display:none !important;
+       }
+
+}
